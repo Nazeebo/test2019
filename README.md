@@ -6,6 +6,6 @@
 
 Удачи!
 
-- [Дешифровка](Caesar.md)
-- [Гномий фейс-контроль](Gnomes.md)
-- [Счастливые билетики](Tickets.md)
+- [Дешифровка](Caesar/Caesar.md)
+- [Гномий фейс-контроль](Gnomes/Gnomes.md)
+- [Счастливые билетики](Tickets/Tickets.md)
